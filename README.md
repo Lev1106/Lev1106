@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @Lev-2006
+- [International Zhautykov Olympiad 2024](https://izho.kz/contest/results-izho-2024/) -- silver
+- [Russia Team Open High School Programming Contest 2023] -- silver
+- [Republican Olympiad 2022](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2022) -- silver
+- [Republican Olympiad 2023](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2023) -- bronze
+- [Republican Olympiad 2024](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2024) -- bronze
 - [![Codeforces](https://badges.joonhyung.xyz/codeforces/lev1106.svg?left_color=lightgray)](https://codeforces.com/profile/lev1106)
 - [![AtCoder](https://badges.joonhyung.xyz/atcoder/lev1106.svg?left_color=lightgray)](https://atcoder.jp/users/lev1106)
 
