@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lev-2006
 - [International Zhautykov Olympiad 2024](https://izho.kz/contest/results-izho-2024/) -- silver
-- [Russia Team Open High School Programming Contest 2023] -- silver
+- [Russia Team Open High School Programming Contest 2023](https://neerc.ifmo.ru/school/archive/2023-2024/ru-olymp-team-russia-2023-standings.html) -- silver
 - [Republican Olympiad 2022](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2022) -- silver
 - [Republican Olympiad 2023](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2023) -- bronze
 - [Republican Olympiad 2024](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2024) -- bronze
