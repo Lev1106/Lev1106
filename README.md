@@ -7,6 +7,8 @@
 - [Republican Olympiad 2024](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2024) -- bronze
 - [![Codeforces](https://badges.joonhyung.xyz/codeforces/lev1106.svg?left_color=lightgray)](https://codeforces.com/profile/lev1106)
 - [![AtCoder](https://badges.joonhyung.xyz/atcoder/lev1106.svg?left_color=lightgray)](https://atcoder.jp/users/lev1106)
+- [Discord](ad)
+- [Telegram](https://Lev_1106.t.me)
 
 <!---
 Lev-2006/Lev-2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
