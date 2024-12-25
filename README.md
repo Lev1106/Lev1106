@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Lev1106
+- [Meta Hacker Cup 2024 Round 3 Participant](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/1654698715095731)
 - [International Zhautykov Olympiad 2024, Computer Science](https://izho.kz/contest/results-izho-2024/) -- silver
 - [Asia-Pacific Informatics Olympiad 2024](https://apio2024.org/ranking) -- bronze
-- [Russia Team Open High School Programming Contest 2023](https://neerc.ifmo.ru/school/archive/2023-2024/ru-olymp-team-russia-2023-standings.html) -- silver
+- [Competitive Programming Championship 2024 Participant]
+- [Russia Team Open High School Programming Contest 2023](https://neerc.ifmo.ru/school/archive/2023-2024/ru-olymp-team-russia-2023-standings.html) -- 2nd degree diploma
 - [Republican Olympiad 2022](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2022) -- silver
 - [Republican Olympiad 2023](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2023) -- bronze
 - [Republican Olympiad 2024](https://scoreboard.bc-pf.org/results/informatics/national-olympiad/2024) -- bronze
